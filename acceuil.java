@@ -24,7 +24,7 @@ public class acceuil extends javax.swing.JFrame {
     
     private int i1,i2,i3,i4,i5;
     
-            public acceuil() {
+            public acceuil() { 
         initComponents();
         this.setLocationRelativeTo(null);
     }
